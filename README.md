@@ -6,8 +6,8 @@ A more condensed variant of Courier Prime Code with more traditional spacing. La
 
 ## Roadmap:
 (Given my track record when it comes to finishing things, none of these will probably ever happen 🙂)
-- more consistent letterforms/alignment
-- ligatures
+- programming ligatures (e.g. Fira Code, Cascadia Code)
 - some stylistic alternates; e.g. double-storey "g", stylised 3/6/9, sans-serif 1, misc. variations of letter shapes
 - light/bold variants, variable weight
 - extra condensed & wider versions, variable width
+- more consistent letterforms/alignment
